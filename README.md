@@ -1,4 +1,20 @@
 
+# Api VollMed
+
+VollMed es una api de administración de citas médicas. El proyecto está implementado utilizando Spring Boot, Spring Security y una base de datos PostgreSQL. A continuación, se describen los principales componentes y funcionalidades del proyecto:
+
+## Tech Stack
+
+**Backend**: Spring Boot, Spring Security
+
+**Base de Datos**: PostgreSQL.
+
+**Autenticación**: JWT (JSON Web Tokens)
+
+**ORM**: Hibernate (JPA)
+
+**Controladores REST**: Implementados para gestionar medicos, pacientes y consultas.
+
 ## API Referencias
 
 ### Autenticación
